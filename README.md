@@ -15,17 +15,17 @@ livrables certifiés, en tant que QA Engineer et Test Lead.
 
 ---
 ## Structure du repository
+```
 proofqa-qa-lab/
-│
-├── 01-strategy/          # Stratégie de tests & plan QA global
-├── 02-test-cases/        # Cas de tests détaillés
-├── 03-automation/        # Scripts Selenium Java & Playwright TypeScript
-├── 04-api-tests/         # Tests API Postman & RestAssured
-├── 05-ci-cd/             # Pipeline GitHub Actions
-├── 06-bug-reports/       # Rapports de bugs avec criticité
-├── 07-audit-reports/     # Rapports d'audit certifiés ProofQA
-└── 08-metrics/           # Métriques qualité & tableaux de bord
----
+├── 01-strategy/       # Stratégie de tests & plan QA global
+├── 02-test-cases/     # Cas de tests détaillés
+├── 03-automation/     # Scripts Selenium Java & Playwright TypeScript
+├── 04-api-tests/      # Tests API Postman & RestAssured
+├── 05-ci-cd/          # Pipeline GitHub Actions
+├── 06-bug-reports/    # Rapports de bugs avec criticité
+├── 07-audit-reports/  # Rapports d'audit certifiés ProofQA
+└── 08-metrics/        # Métriques qualité & tableaux de bord
+```
 
 ## Stack technique
 
